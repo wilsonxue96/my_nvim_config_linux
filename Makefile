@@ -1,5 +1,6 @@
 All:
 	tar -xzvf nvim.tar.gz
+	mkdir ./nvim_init
 	tar -xzvf nvim_init.tar.gz -C ./nvim_init/
 
 	mkdir ~/.local/share/nvim ~/.config/nvim/
