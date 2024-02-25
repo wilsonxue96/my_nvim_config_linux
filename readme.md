@@ -1,8 +1,8 @@
 ## STEP1
 
-Download the Neovim and install
+[Download the Neovim and install](https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz)
 
-[https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz]('Download Neovim and unzip')
+
 
 ## STEP2
 
